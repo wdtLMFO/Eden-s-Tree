@@ -4,7 +4,7 @@ An academy of knowledge inspired by the land of Eden and the Tree of Knowledge o
 
 ## Description
 
-Edens Tree Academy is a platform dedicated to exploring the intersection of biblical accounts and scientific principles. The course presenters are named after renowned biblical characters like Eve, Adam, Cain, Abel, Enoch, Methuselah, Noah, etc. Drawing inspiration from Jordan B. Peterson's ARK studies, this project delves into the deep connections between divinity and the laws of physics.
+Edens Tree Academy is a platform dedicated to exploring the intersection of biblical accounts and scientific principles. The course presenters are named after renowned biblical characters like Eve, Adam, Cain, Abel, Enoch, Methuselah, Noah, etc. Drawing inspiration from Jordan B. Peterson's ARC studies, this project delves into the deep connections between divinity and the laws of physics.
 
 ## Features
 
